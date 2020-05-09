@@ -3,6 +3,8 @@
 ## Overview
 In this project I created an asynchronous web app that uses Web API and user data to dynamically update the UI with Data from the OpenWeatherMap API.
 
+Start the server with `npx nodemon server.js`.
+
 ## Solutions
 This is accomplished with the use of NODE.js, used in the `server.js` file and the `website/app.js` files. Element references in `index.html` are used to dynamically update the GUI, and the design is tailored with the use of `style.css` for some customization.
 
